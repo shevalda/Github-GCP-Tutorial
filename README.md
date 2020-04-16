@@ -1,24 +1,3 @@
-# github-gcp-tutorial
+# Github GCP tutorial
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To visit the live website, go to [https://github-gcp-tutorial.df.r.appspot.com/](https://github-gcp-tutorial.df.r.appspot.com/).
